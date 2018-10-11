@@ -18,6 +18,9 @@ body {
       margin-top: 64px;
     text-align: center
   }
+ #main{
+    text-align: center
+}
   h1,h2,h3{
     font-weight: 400;
     margin-bottom: 0px
@@ -41,9 +44,7 @@ body {
       margin-bottom: 12px;
     
 }
-  #main{
-    text-align: center
-}
+ 
   
 
       
